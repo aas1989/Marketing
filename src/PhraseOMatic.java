@@ -7,7 +7,7 @@ public class PhraseOMatic {
 
         String[] WordListTwo = {"loosely coupled","six sigma","asynchronous","event driven","pubsub","Iot","cloudnative","service oriented","containerized","serverless","microservices","distributed ledger" };
 
-        String[] WordListThree = {"frameworke","library","DSL","REST API","repository","pipeline","servicemesh","architecture","perspective","design","orientation"};
+        String[] WordListThree = {"framework","library","DSL","REST API","repository","pipeline","servicemesh","architecture","perspective","design","orientation"};
 
         int oneLength = WordListOne.length;
         int twoLength = WordListTwo.length;
